@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Video Surveillance System**
 
-- 🌱 I’m currently learning **dhango,AI**
+- 🌱 I’m currently learning **flask,AI**
 
-- 🤝 I’m looking for help with **Flutter,Firebase,dhango,Java,React Native**
+- 🤝 I’m looking for help with **Flutter,Firebase,Java,React Native**
 
-- 💬 Ask me about **Java,OOPS Concept,Data Structure,Bug Fix Service**
+- 💬 Ask me about **Java,OOPS Concept,Bug Fix Service**
 
 - 📫 How to reach me **asifzain981@gmail.com**
 
