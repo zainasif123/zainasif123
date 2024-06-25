@@ -1,6 +1,6 @@
 <img align="right" alt="Coding"  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif">
 <h1 align="center">Hi 👋, I'm Zain Asif</h1>
-<h3 align="center">As a dedicated Flutter app developer, I excel in both frontend and backend development, combining aesthetics with functionality. My love for app development is evident in my commitment to staying ahead of industry trends. With a focus on creating seamless user experiences, I integrate Firebase for robust backend solutions. My work reflects a meticulous approach, ensuring high-quality and efficient applications. Having successfully deployed multiple projects, I navigate the entire development lifecycle with ease. I thrive on challenges, constantly seeking innovative solutions for a holistic user journey. My proficiency in Firebase extends to optimizing databases and implementing secure authentication systems. In the dynamic realm of app development, I am a problem solver and creator of impactful digital experiences. My coding skills are complemented by a keen eye for design, resulting in aesthetically pleasing interfaces. Through a fusion of creativity and technical precision, I bring ideas to life, leaving a lasting mark in the world of mobile applications.</h3>
+<h3 align="center">As a dedicated Flutter developer, I bring the expertise and experience needed to turn your visionary ideas into successful applications. With a strong background in mobile app development, I am committed to providing exceptional solutions through the use of effective software development practices. You can count on my unwavering dedication to achieving excellence and delivering outstanding results that surpass your expectations.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainasif123&label=Profile%20views&color=0e75b6&style=flat" alt="zainasif123" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask,AI**
 
-- 🤝 I’m looking for help with **Flutter,Firebase,Java,React Native**
+- 🤝 I’m looking for help with **Flutter,Firebase,Java,Dart**
 
 - 💬 Ask me about **Java,OOPS Concept,Data Structure,Bug Fix Service**
 
