@@ -31,7 +31,7 @@
 ![Zain Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainasif123&hide_rank=true&include_all_commits=true&theme=radical&icon_color=0366d6)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainasif123&theme=dark)
 
 <br>
 ⭐️ From [zainasif123](https://github.com/zainasif123)
