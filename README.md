@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zainasif123&label=Profile%20views&color=0e75b6&style=flat" alt="zainasif123" />
+</p>
  <h1 align="center">Hi 👋, I'm Zain Asif</h1>
 
 - 🔭 I’m currently working on Flutter
