@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zainasif123&label=Profile%20views&color=0e75b6&style=flat" alt="zainasif123" />
-</p>
+
  <h1 align="center">Hi 👋, I'm Zain Asif</h1>
 
 - 🔭 I’m currently working on Flutter
@@ -10,7 +8,10 @@
 - ⚡ Fun fact: I'm comming to teen
 
 ### Connect with me:
-
+<p align="left" style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=zainasif123&label=Profile%20views&color=0e75b6&style=flat" alt="zainasif123" />
+  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" alt="GIF" width="100" height="100"/>
+</p>
 <div id="badges">
   <a href="https://github.com/zainasif123">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
