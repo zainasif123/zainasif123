@@ -10,7 +10,7 @@
 ### Connect with me:
 <p align="left" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=zainasif123&label=Profile%20views&color=0e75b6&style=flat" alt="zainasif123" />
-  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" alt="GIF" width="100" height="100"/>
+  <img src="https://rahuldkjain.github.io/gh-profile-readme-generator/" alt="GIF" width="100" height="100"/>
 </p>
 <div id="badges">
   <a href="https://github.com/zainasif123">
